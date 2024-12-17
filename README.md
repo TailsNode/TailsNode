@@ -1,4 +1,4 @@
-👋 Hi, I’m @TailsNode, a computer engineer, web developer, and cybersecurity researcher with expertise in malware analysis and experience in both red and blue team cybersecurity roles.
+👋 Hi, I’m @TailsNode, a computer engineer, web developer, and cybersecurity researcher with expertise and experience in both red and blue team cybersecurity roles.
 
 👀 I’m deeply interested in the intricate world of cybersecurity, particularly in the realms of penetration testing, malware analysis, where I specialize in both dynamic and static analysis techniques, as well as analyzing RAM images for comprehensive threat assessment.
 
